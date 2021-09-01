@@ -13,7 +13,7 @@ Topics covered -
 
 3)Programming Languages
 
-  Get Good grasp at Go programming Language!
+  Get Good grasp at Java/Go programming Language in less time!
 
 
 
