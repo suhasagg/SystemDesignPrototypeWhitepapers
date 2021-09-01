@@ -6,12 +6,15 @@ Topics covered -
  General Problem solving Approaches are discussed
   
 
+
 2)Algorithms
   
+
 
 3)Programming Languages
 
   Get Good grasp at Go programming Language!
+
 
 
 4)Deep Learning
@@ -19,7 +22,9 @@ Topics covered -
   Main points to understand ML Algorithms in less time.
 
 
+
 5)Computer Networks
+
 
 
 6)Ethereum
