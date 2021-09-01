@@ -19,7 +19,10 @@ Topics covered -
   Main points to understand ML Algorithms in less time.
 
 
-5)Ethereum
+5)Computer Networks
+
+
+6)Ethereum
   
  
  i)First detailed tutorials on building a scalable blockchain infra using tendermint!
