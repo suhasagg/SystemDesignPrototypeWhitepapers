@@ -4,6 +4,7 @@ Topics covered -
 1)Data Structures
  
  General Problem solving Approaches are discussed
+ Templates are provided.
   
 
 
@@ -19,7 +20,7 @@ Topics covered -
 
 4)Deep Learning
   
-  Main points to understand ML Algorithms in less time.
+  Main points to understand ML Algorithms in less time!
 
 
 
