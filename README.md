@@ -25,6 +25,7 @@ Topics covered -
 
 
 5)Computer Networks
+  Sufficient for CCNA exam.
 
 
 
