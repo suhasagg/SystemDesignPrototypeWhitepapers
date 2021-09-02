@@ -4,6 +4,7 @@ Topics covered -
 1)Data Structures
  
  General Problem solving Approaches are discussed
+
  Templates are provided.
   
 
@@ -27,6 +28,7 @@ Topics covered -
 
 
 5)Computer Networks
+
   Sufficient for CCNA exam.
 
 
