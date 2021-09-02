@@ -15,6 +15,7 @@ Topics covered -
 3)Programming Languages
 
   Get Good grasp at Java/Go programming Language in less time!
+  Publish/Subscribe System explanation in Golang!
 
 
 
