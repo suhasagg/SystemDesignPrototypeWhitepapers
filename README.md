@@ -40,7 +40,7 @@ Topics covered -
  
  i)Building a scalable blockchain infra using tendermint!
 
- ii)Ethereum Layer-2 scaling Tutorials
+ ii)Ethereum Layer-2 scaling Tutorials!
 
 
  Please kindly check below link - 
