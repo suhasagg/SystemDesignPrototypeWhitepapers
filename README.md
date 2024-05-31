@@ -26,14 +26,7 @@ Topics covered -
   Main points to understand ML Algorithms in less time!
 
 
-
-5)Computer Networks
-
-  Sufficient for CCNA exam.
-
-
-
-6)Ethereum
+5)Ethereum
   
  
  First detailed tutorials on -
